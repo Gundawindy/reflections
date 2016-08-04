@@ -1,0 +1,52 @@
+Feedback for this course.
+This is not very well organised or explained. For someone that knows nothing about git there seems to be a lot explained in the answer that hasn't been explained prior. As such there is no way to actually answer, other than guessing.
+The videos show them using git bash, but I can't find a way to copy/paste in git bash with keyboard shortcuts, as they appear to do in the video. Are they using git cmd, or is the apple version different?
+Questions are asked where they say, there is no right or wrong answer. It's subjective. But then you still have to get the "right" answer to progress.
+
+
+
+
+
+Windows security sucks and wouldn't let me download the javascript demo file.
+I'm not sure why they want everything to run from a command prompt.
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Obviously its nice to be able to easily find differences in files.
+As well as the changes that were meant to be made, it will also show the errors made.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+You can go back over any changes you have made and see if they did what was expected.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+They follow a logical step in the process
+They should be easy to understand what the changes are and why they have been made
+They could be forgotten about for too long, making the step hard to understand.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+They see them as interdependant so it helps if one changes then you track them all, in case others have changed too.
+Those that track only one at a time assume there are no dependancies, or don't care if there are.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Not very easily. Command prompt UI is so outdated.
+In the git directory just type git log or git diff.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+You can have the confidence that if you break something you can at least go back to the previous version to fix it.
+In fact it could help you diagnose the fault so you can move forward.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I just want simple things that work in windows to work. Ctrl C and Ctrl V for copy and paste would be very useful.
+Or for the course to just get on with using the GUI or website for Github.
