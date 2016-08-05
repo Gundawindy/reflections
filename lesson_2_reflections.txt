@@ -10,10 +10,12 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-*
+*As you make a logical change, you should stage it. Then you can commit one logical change per commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+*Anytime you have a break from the main program with a variation. Branches help because you can keep the original and make changes as well.
 
 How do the diagrams help you visualize the branch structure?
 
