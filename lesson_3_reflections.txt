@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+*If you're making a change that you aren't sure about then it might be best to use a seperate branch. After you confirm that the change is doing what you expected then you can merge it back into the master branch.
